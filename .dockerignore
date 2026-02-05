@@ -1,0 +1,67 @@
+# Git
+.git
+.gitignore
+.github
+
+# Виртуальное окружение
+.env
+venv/
+ENV/
+env/
+.venv/
+
+# Кэши Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Логи
+*.log
+
+# Специфические для IDE файлы
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Директории данных и очень большие файлы, которые не требуются для сборки
+audio/*.mp3
+app/data/audio/*.mp3
+app/data/reports/*.pdf
+app/data/reports/*.xlsx
+app/data/transcriptions/*.txt
+app/data/analysis/*.json
+backups/
+tests/
+
+# Файлы, не требующиеся в образе
+*.pdf
+*.xlsx
+*.mp3
+*.mp4
+*.wav
+
+# Node.js зависимости
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Docker
+.docker/
+docker-volume/
+docker-compose.override.yml
+docker-compose.yml
+
+# Документация и другие файлы
+docs/
+README-task-master.md
+*.md
+!README.md
+
+# Task Master
+tasks.json
+tasks/ 

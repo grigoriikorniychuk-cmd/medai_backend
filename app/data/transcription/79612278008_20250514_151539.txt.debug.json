@@ -1,0 +1,238 @@
+{
+  "language_code": "rus",
+  "language_probability": 0.9872410297393799,
+  "text": "(звуковой эффект) В данный момент файл с записью разговора недоступен. Возможно, он еще не готов, либо был удален.",
+  "words": [
+    {
+      "text": "(звуковой эффект)",
+      "start": 0.219,
+      "end": 0.3,
+      "type": "audio_event",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": " ",
+      "start": 0.3,
+      "end": 0.3,
+      "type": "spacing",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "В",
+      "start": 0.3,
+      "end": 0.359,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 0.359,
+      "end": 0.359,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "данный",
+      "start": 0.359,
+      "end": 0.679,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 0.679,
+      "end": 0.68,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "момент",
+      "start": 0.68,
+      "end": 1.039,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 1.039,
+      "end": 1.059,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "файл",
+      "start": 1.059,
+      "end": 1.339,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 1.339,
+      "end": 1.339,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "с",
+      "start": 1.339,
+      "end": 1.399,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 1.399,
+      "end": 1.399,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "записью",
+      "start": 1.399,
+      "end": 1.819,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 1.819,
+      "end": 1.819,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "разговора",
+      "start": 1.819,
+      "end": 2.319,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 2.319,
+      "end": 2.319,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "недоступен.",
+      "start": 2.319,
+      "end": 3.039,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 3.039,
+      "end": 3.339,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Возможно,",
+      "start": 3.339,
+      "end": 3.819,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 3.819,
+      "end": 3.839,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "он",
+      "start": 3.839,
+      "end": 3.939,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 3.939,
+      "end": 3.939,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "еще",
+      "start": 3.939,
+      "end": 4.199,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 4.199,
+      "end": 4.219,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "не",
+      "start": 4.219,
+      "end": 4.339,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 4.339,
+      "end": 4.36,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "готов,",
+      "start": 4.36,
+      "end": 4.799,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 4.799,
+      "end": 4.9,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "либо",
+      "start": 4.9,
+      "end": 5.099,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 5.099,
+      "end": 5.139,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "был",
+      "start": 5.139,
+      "end": 5.279,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 5.279,
+      "end": 5.299,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "удален.",
+      "start": 5.299,
+      "end": 5.859,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

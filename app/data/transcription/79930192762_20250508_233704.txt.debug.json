@@ -1,0 +1,1498 @@
+{
+  "language_code": "rus",
+  "language_probability": 0.9713915586471558,
+  "text": "(фоновая музыка) Стоматология для всех. Администратор Милана, добрый день. Здравствуй, девушка. Скажите, пожалуйста, у вас снятие зуба для пенсионера сколько стоит? Снятие чего, прошу прощения, не поняла. Снятие зуба. Удалять, удалять зуб. Удаление? Да! От четырех с половиной. Там в зависимости от сложности. Нужно доктора сначала смотреть. При необходимости снимок делать, если у вас его нет, не делали ранее. От четырех с половиной. Правильно? Да, да. А там в зависимости от сложности. То есть сначала подойдете, доктор посмотрит, если нужно будет сделать снимок и там уже более точно сможет сориентировать по цене. Также за наличный расчет в клинике есть скидка пять процентов. Ладно, спасибо, до свидания. Всего доброго.",
+  "words": [
+    {
+      "text": "(фоновая музыка)",
+      "start": 0.119,
+      "end": 1.839,
+      "type": "audio_event",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": " ",
+      "start": 1.839,
+      "end": 1.839,
+      "type": "spacing",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Стоматология",
+      "start": 1.839,
+      "end": 2.539,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 2.539,
+      "end": 2.539,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "для",
+      "start": 2.539,
+      "end": 2.7,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 2.7,
+      "end": 2.7,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "всех.",
+      "start": 2.7,
+      "end": 3.039,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 3.039,
+      "end": 3.039,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Администратор",
+      "start": 3.039,
+      "end": 3.799,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 3.799,
+      "end": 3.819,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Милана,",
+      "start": 3.819,
+      "end": 4.239,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 4.239,
+      "end": 4.259,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "добрый",
+      "start": 4.259,
+      "end": 4.539,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 4.539,
+      "end": 4.559,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "день.",
+      "start": 4.559,
+      "end": 4.859,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 4.859,
+      "end": 6.44,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Здравствуй,",
+      "start": 6.44,
+      "end": 6.839,
+      "type": "word",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": " ",
+      "start": 6.839,
+      "end": 6.859,
+      "type": "spacing",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "девушка.",
+      "start": 6.859,
+      "end": 7.179,
+      "type": "word",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": " ",
+      "start": 7.179,
+      "end": 7.219,
+      "type": "spacing",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Скажите,",
+      "start": 7.219,
+      "end": 7.599,
+      "type": "word",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": " ",
+      "start": 7.599,
+      "end": 7.619,
+      "type": "spacing",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "пожалуйста,",
+      "start": 7.619,
+      "end": 8.119,
+      "type": "word",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": " ",
+      "start": 8.119,
+      "end": 8.139,
+      "type": "spacing",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "у",
+      "start": 8.139,
+      "end": 8.219,
+      "type": "word",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": " ",
+      "start": 8.219,
+      "end": 8.26,
+      "type": "spacing",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "вас",
+      "start": 8.26,
+      "end": 8.5,
+      "type": "word",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": " ",
+      "start": 8.5,
+      "end": 8.96,
+      "type": "spacing",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "снятие",
+      "start": 8.96,
+      "end": 9.36,
+      "type": "word",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": " ",
+      "start": 9.36,
+      "end": 9.42,
+      "type": "spacing",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "зуба",
+      "start": 9.42,
+      "end": 9.639,
+      "type": "word",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": " ",
+      "start": 9.639,
+      "end": 9.639,
+      "type": "spacing",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "для",
+      "start": 9.639,
+      "end": 9.76,
+      "type": "word",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": " ",
+      "start": 9.76,
+      "end": 9.779,
+      "type": "spacing",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "пенсионера",
+      "start": 9.779,
+      "end": 10.279,
+      "type": "word",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": " ",
+      "start": 10.279,
+      "end": 10.3,
+      "type": "spacing",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "сколько",
+      "start": 10.3,
+      "end": 10.5,
+      "type": "word",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": " ",
+      "start": 10.5,
+      "end": 10.519,
+      "type": "spacing",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "стоит?",
+      "start": 10.519,
+      "end": 10.959,
+      "type": "word",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": " ",
+      "start": 10.959,
+      "end": 12.84,
+      "type": "spacing",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Снятие",
+      "start": 12.84,
+      "end": 13.299,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 13.299,
+      "end": 13.299,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "чего,",
+      "start": 13.299,
+      "end": 13.559,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 13.559,
+      "end": 13.579,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "прошу",
+      "start": 13.579,
+      "end": 13.84,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 13.84,
+      "end": 13.84,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "прощения,",
+      "start": 13.84,
+      "end": 14.279,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 14.279,
+      "end": 14.42,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "не",
+      "start": 14.42,
+      "end": 14.52,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 14.52,
+      "end": 14.579,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "поняла.",
+      "start": 14.579,
+      "end": 15.06,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 15.06,
+      "end": 16.699,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Снятие",
+      "start": 16.699,
+      "end": 17.139,
+      "type": "word",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": " ",
+      "start": 17.139,
+      "end": 17.159,
+      "type": "spacing",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "зуба.",
+      "start": 17.159,
+      "end": 17.639,
+      "type": "word",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": " ",
+      "start": 17.639,
+      "end": 18.539,
+      "type": "spacing",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Удалять,",
+      "start": 18.539,
+      "end": 19.059,
+      "type": "word",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": " ",
+      "start": 19.059,
+      "end": 19.059,
+      "type": "spacing",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "удалять",
+      "start": 19.059,
+      "end": 20.28,
+      "type": "word",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": " ",
+      "start": 20.28,
+      "end": 20.299,
+      "type": "spacing",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "зуб.",
+      "start": 20.299,
+      "end": 20.62,
+      "type": "word",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": " ",
+      "start": 20.62,
+      "end": 20.84,
+      "type": "spacing",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Удаление?",
+      "start": 20.84,
+      "end": 21.319,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 21.319,
+      "end": 21.319,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Да!",
+      "start": 21.319,
+      "end": 21.739,
+      "type": "word",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": " ",
+      "start": 21.739,
+      "end": 21.76,
+      "type": "spacing",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "От",
+      "start": 21.76,
+      "end": 22.059,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 22.059,
+      "end": 22.959,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "четырех",
+      "start": 22.959,
+      "end": 23.279,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 23.279,
+      "end": 23.359,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "с",
+      "start": 23.359,
+      "end": 23.439,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 23.439,
+      "end": 23.439,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "половиной.",
+      "start": 23.439,
+      "end": 23.92,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 23.92,
+      "end": 23.92,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Там",
+      "start": 23.92,
+      "end": 24.059,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 24.059,
+      "end": 24.059,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "в",
+      "start": 24.059,
+      "end": 24.1,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 24.1,
+      "end": 24.1,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "зависимости",
+      "start": 24.1,
+      "end": 24.68,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 24.68,
+      "end": 24.68,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "от",
+      "start": 24.68,
+      "end": 24.799,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 24.799,
+      "end": 24.819,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "сложности.",
+      "start": 24.819,
+      "end": 25.479,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 25.479,
+      "end": 25.979,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Нужно",
+      "start": 25.979,
+      "end": 26.239,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 26.239,
+      "end": 26.239,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "доктора",
+      "start": 26.239,
+      "end": 26.599,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 26.599,
+      "end": 26.599,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "сначала",
+      "start": 26.599,
+      "end": 27.019,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 27.019,
+      "end": 27.039,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "смотреть.",
+      "start": 27.039,
+      "end": 27.619,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 27.619,
+      "end": 27.619,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "При",
+      "start": 27.619,
+      "end": 28.439,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 28.439,
+      "end": 28.479,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "необходимости",
+      "start": 28.479,
+      "end": 29.159,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 29.159,
+      "end": 29.159,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "снимок",
+      "start": 29.159,
+      "end": 29.499,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 29.499,
+      "end": 29.5,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "делать,",
+      "start": 29.5,
+      "end": 29.799,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 29.799,
+      "end": 29.799,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "если",
+      "start": 29.799,
+      "end": 30.02,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 30.02,
+      "end": 30.039,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "у",
+      "start": 30.039,
+      "end": 30.119,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 30.119,
+      "end": 30.139,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "вас",
+      "start": 30.139,
+      "end": 30.299,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 30.299,
+      "end": 30.319,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "его",
+      "start": 30.319,
+      "end": 30.5,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 30.5,
+      "end": 30.519,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "нет,",
+      "start": 30.519,
+      "end": 30.759,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 30.759,
+      "end": 30.76,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "не",
+      "start": 30.76,
+      "end": 30.92,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 30.92,
+      "end": 30.92,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "делали",
+      "start": 30.92,
+      "end": 31.239,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 31.239,
+      "end": 31.359,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ранее.",
+      "start": 31.359,
+      "end": 31.839,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 31.839,
+      "end": 32.02,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "От",
+      "start": 32.02,
+      "end": 32.879,
+      "type": "word",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": " ",
+      "start": 32.879,
+      "end": 32.959,
+      "type": "spacing",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "четырех",
+      "start": 32.959,
+      "end": 33.299,
+      "type": "word",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": " ",
+      "start": 33.299,
+      "end": 33.36,
+      "type": "spacing",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "с",
+      "start": 33.36,
+      "end": 33.42,
+      "type": "word",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": " ",
+      "start": 33.42,
+      "end": 33.439,
+      "type": "spacing",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "половиной.",
+      "start": 33.439,
+      "end": 33.88,
+      "type": "word",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": " ",
+      "start": 33.88,
+      "end": 33.88,
+      "type": "spacing",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Правильно?",
+      "start": 33.88,
+      "end": 34.499,
+      "type": "word",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": " ",
+      "start": 34.499,
+      "end": 34.559,
+      "type": "spacing",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Да,",
+      "start": 34.559,
+      "end": 34.8,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 34.8,
+      "end": 34.899,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "да.",
+      "start": 34.899,
+      "end": 35.119,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 35.119,
+      "end": 35.259,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "А",
+      "start": 35.259,
+      "end": 35.399,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 35.399,
+      "end": 35.399,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "там",
+      "start": 35.399,
+      "end": 35.54,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 35.54,
+      "end": 35.559,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "в",
+      "start": 35.559,
+      "end": 35.599,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 35.599,
+      "end": 35.599,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "зависимости",
+      "start": 35.599,
+      "end": 36.2,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 36.2,
+      "end": 36.2,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "от",
+      "start": 36.2,
+      "end": 36.359,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 36.359,
+      "end": 36.38,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "сложности.",
+      "start": 36.38,
+      "end": 37.0,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 37.0,
+      "end": 37.0,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "То",
+      "start": 37.0,
+      "end": 37.1,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 37.1,
+      "end": 37.119,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "есть",
+      "start": 37.119,
+      "end": 37.219,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 37.219,
+      "end": 37.219,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "сначала",
+      "start": 37.219,
+      "end": 37.659,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 37.659,
+      "end": 37.68,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "подойдете,",
+      "start": 37.68,
+      "end": 38.279,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 38.279,
+      "end": 38.279,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "доктор",
+      "start": 38.279,
+      "end": 38.58,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 38.58,
+      "end": 38.659,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "посмотрит,",
+      "start": 38.659,
+      "end": 39.419,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 39.419,
+      "end": 39.419,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "если",
+      "start": 39.419,
+      "end": 39.72,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 39.72,
+      "end": 39.779,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "нужно",
+      "start": 39.779,
+      "end": 40.02,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 40.02,
+      "end": 40.059,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "будет",
+      "start": 40.059,
+      "end": 40.259,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 40.259,
+      "end": 40.34,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "сделать",
+      "start": 40.34,
+      "end": 40.74,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 40.74,
+      "end": 40.759,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "снимок",
+      "start": 40.759,
+      "end": 41.28,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 41.28,
+      "end": 41.299,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "и",
+      "start": 41.299,
+      "end": 41.479,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 41.479,
+      "end": 41.479,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "там",
+      "start": 41.479,
+      "end": 41.679,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 41.679,
+      "end": 41.7,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "уже",
+      "start": 41.7,
+      "end": 41.92,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 41.92,
+      "end": 41.939,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "более",
+      "start": 41.939,
+      "end": 42.2,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 42.2,
+      "end": 42.239,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "точно",
+      "start": 42.239,
+      "end": 42.58,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 42.58,
+      "end": 42.659,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "сможет",
+      "start": 42.659,
+      "end": 42.939,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 42.939,
+      "end": 42.939,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "сориентировать",
+      "start": 42.939,
+      "end": 43.56,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 43.56,
+      "end": 43.639,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "по",
+      "start": 43.639,
+      "end": 43.76,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 43.76,
+      "end": 43.84,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "цене.",
+      "start": 43.84,
+      "end": 44.319,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 44.319,
+      "end": 44.719,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Также",
+      "start": 44.719,
+      "end": 45.059,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 45.059,
+      "end": 45.079,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "за",
+      "start": 45.079,
+      "end": 45.239,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 45.239,
+      "end": 45.239,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "наличный",
+      "start": 45.239,
+      "end": 45.68,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 45.68,
+      "end": 45.7,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "расчет",
+      "start": 45.7,
+      "end": 46.039,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 46.039,
+      "end": 46.079,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "в",
+      "start": 46.079,
+      "end": 46.119,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 46.119,
+      "end": 46.139,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "клинике",
+      "start": 46.139,
+      "end": 46.58,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 46.58,
+      "end": 46.599,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "есть",
+      "start": 46.599,
+      "end": 46.759,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 46.759,
+      "end": 46.799,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "скидка",
+      "start": 46.799,
+      "end": 47.2,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 47.2,
+      "end": 47.259,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "пять",
+      "start": 47.259,
+      "end": 47.4,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 47.4,
+      "end": 47.479,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "процентов.",
+      "start": 47.479,
+      "end": 48.179,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 48.179,
+      "end": 50.059,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Ладно,",
+      "start": 50.059,
+      "end": 50.36,
+      "type": "word",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": " ",
+      "start": 50.36,
+      "end": 50.379,
+      "type": "spacing",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "спасибо,",
+      "start": 50.379,
+      "end": 50.819,
+      "type": "word",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": " ",
+      "start": 50.819,
+      "end": 50.879,
+      "type": "spacing",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "до",
+      "start": 50.879,
+      "end": 51.0,
+      "type": "word",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": " ",
+      "start": 51.0,
+      "end": 51.0,
+      "type": "spacing",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "свидания.",
+      "start": 51.0,
+      "end": 51.539,
+      "type": "word",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": " ",
+      "start": 51.539,
+      "end": 52.0,
+      "type": "spacing",
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Всего",
+      "start": 52.0,
+      "end": 52.359,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": " ",
+      "start": 52.359,
+      "end": 52.36,
+      "type": "spacing",
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "доброго.",
+      "start": 52.36,
+      "end": 52.599,
+      "type": "word",
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

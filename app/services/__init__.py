@@ -1,0 +1,2 @@
+# Экспорт сервисов
+from .call_admin_report_service import call_admin_report_service

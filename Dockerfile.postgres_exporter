@@ -1,0 +1,24 @@
+FROM python:3.10-slim
+
+# Устанавливаем рабочую директорию в контейнере
+WORKDIR /usr/src/app
+
+# Устанавливаем системные зависимости, необходимые для psycopg2
+# gcc нужен для сборки некоторых пакетов, libpq-dev для psycopg2
+RUN apt-get update && \
+    apt-get install -y libpq-dev gcc && \
+    rm -rf /var/lib/apt/lists/*
+
+# Устанавливаем Python зависимости
+# Если у вас есть файл requirements.txt, который включает pymongo и psycopg2-binary,
+# вы можете раскомментировать следующие строки и закомментировать RUN pip install pymongo psycopg2-binary
+# COPY ./requirements.txt /usr/src/app/
+# RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install --no-cache-dir pymongo psycopg2-binary
+
+# Копируем скрипт экспортера в контейнер
+# Путь ./prometheus/postgres_exporter.py указан относительно корневой директории проекта (контекста сборки Docker)
+COPY ./datalens/postgres_exporter.py /usr/src/app/postgres_exporter.py
+
+# Команда для запуска экспортера при старте контейнера
+CMD ["python3", "postgres_exporter.py"]

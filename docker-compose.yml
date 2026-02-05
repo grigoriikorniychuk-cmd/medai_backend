@@ -1,0 +1,111 @@
+version: "3.8"
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: medai-api
+    ports:
+      - "8001:8001"
+    depends_on:
+      - mongodb
+    env_file: .env
+    environment:
+      POSTGRES_HOST: "postgres"
+      POSTGRES_PORT: "5432"
+      POSTGRES_DB: ${POSTGRES_DB:-medai_metrics}
+      POSTGRES_USER: ${POSTGRES_USER:-admin}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-P@sspass111}
+      MONGO_URI_EXPORTER: "mongodb://${MONGO_ROOT_USERNAME}:${MONGO_ROOT_PASSWORD}@mongodb:27017/?authSource=admin"
+    volumes:
+      - ./app/data:/app/app/data
+    restart: unless-stopped
+    networks:
+      - medai-network
+
+  frontend:
+    build:
+      context: ${FRONTEND_BUILD_CONTEXT:-/home/admin/medai_frontend}
+      dockerfile: Dockerfile.front
+      args:
+        REACT_APP_API_KEY: ${API_KEY}
+    container_name: medai-frontend
+    volumes:
+      - ${FRONTEND_PATH:-/var/www/ai-osnova.ru/html}:/var/www/html
+    restart: "no"
+    deploy:
+      restart_policy:
+        condition: none
+
+  telegram-bot:
+    build:
+      context: .
+      dockerfile: Dockerfile.bot
+    container_name: medai-telegram-bot
+    depends_on:
+      - mongodb
+      - api
+    env_file: .env
+    restart: unless-stopped
+    networks:
+      - medai-network
+
+  mongodb:
+    image: mongo:latest
+    container_name: medai-mongodb
+    ports:
+      - "27018:27017" # MongoDB будет доступен на хосте по порту 27018
+    volumes:
+      - mongodb_data:/data/db
+    environment:
+      - MONGO_INITDB_DATABASE=medai
+      - MONGO_INITDB_ROOT_USERNAME=${MONGO_ROOT_USERNAME:-}
+      - MONGO_INITDB_ROOT_PASSWORD=${MONGO_ROOT_PASSWORD:-}
+    restart: unless-stopped
+    networks:
+      - medai-network
+
+  postgres: 
+    image: postgres:15
+    container_name: medai-postgres
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-admin}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-P@sspass111}
+      POSTGRES_DB: ${POSTGRES_DB:-medai_metrics}
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - medai-network
+    restart: unless-stopped
+
+
+  pgadmin:
+    image: dpage/pgadmin4:latest
+    container_name: medai-pgadmin
+    environment:
+      PGADMIN_DEFAULT_EMAIL: "meizumxpro0@gmail.com"  # Замените на ваш email
+      PGADMIN_DEFAULT_PASSWORD: "P@sspass111"      # Замените на надежный пароль
+    ports:
+      - "5050:80" # pgAdmin будет доступен на http://localhost:5050
+    volumes:
+      - pgadmin_data:/var/lib/pgadmin
+    networks:
+      - medai-network
+    restart: unless-stopped
+    depends_on:
+      - postgres
+
+networks:
+  medai-network:
+    driver: bridge
+
+volumes:
+  mongodb_data:
+    driver: local
+  postgres_data: 
+    driver: local
+  pgadmin_data:
+    driver: local
